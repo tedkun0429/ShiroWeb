@@ -58,6 +58,13 @@
             <artifactId>shiro-web</artifactId>
             <version>1.4.0</version>
         </dependency>
+
+        <!-- 添加数据库支持 -->
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>5.1.38</version>
+        </dependency>
     </dependencies>
 
 </project>
